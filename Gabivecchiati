@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gabi Vecchiati • Materiais que Recomendo</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background: #e9ddff; /* lilás clean */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: #333;
+        }
+
+        .container {
+            max-width: 500px;
+            /* Ajuste de margem superior já que não tem a imagem */
+            margin: 80px auto; 
+            padding: 20px;
+        }
+
+        /* O CSS para .profile-img foi removido */
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+            color: #5c3fa3;
+        }
+
+        p {
+            font-size: 15px;
+            margin-bottom: 25px;
+        }
+
+        .link {
+            text-decoration: none;
+            display: block;
+            background: white;
+            padding: 14px;
+            margin: 12px 0;
+            border-radius: 12px;
+            font-size: 17px;
+            font-weight: bold;
+            border: 2px solid #d5c8ff;
+            color: #5c3fa3;
+            transition: 0.2s;
+        }
+
+        .link:hover {
+            background: #f5efff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Gabi Vecchiati</h1>
+
+        <p>Aqui você encontra todos os materiais que uso e recomendo!<br>Clique no item desejado.</p>
+
+        <a class="link" href="https://s.shopee.com.br/5Akm6kbugJ" target="_blank">🧪 Tubinhos Flaconete</a>
+
+        <a class="link" href="https://s.shopee.com.br/5Akm89xxxN" target="_blank">🍬 Vidrinhos para Doce de Leite</a>
+
+        <a class="link" href="https://s.shopee.com.br/2Vk0wWHtrT" target="_blank">🍥 Forminhas – Opção 1</a>
+
+        <a class="link" href="https://s.shopee.com.br/5Akm7T28Xu" target="_blank">🍥 Forminhas – Opção 2</a>
+
+        <a class="link" href="https://s.shopee.com.br/8AONh0cmIa" target="_blank">🍥 Forminhas – Opção 3</a>
+
+    </div>
+
+</body>
+</html>
